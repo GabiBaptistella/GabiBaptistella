@@ -1,4 +1,4 @@
-## Olá! Sou Gabi Baptistella, estudante de Análise e Desenvolvimento de Sistemas, em constante evolução como desenvolvedora web e ServiceNow e novas oportunidades.
+## Olá! Sou Gabi Baptistella, estudante de Análise e Desenvolvimento de Sistemas, em constante evolução como desenvolvedora web e ServiceNow, além de novas oportunidades.
 
 - 💻 Estudante de Análise e Desenvolvimento de Sistemas
 - 📚 Estudando JavaScript e ServiceNow
